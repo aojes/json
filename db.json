@@ -1,5 +1,4 @@
-
-"Shipment{
+[ "Shipment" => {
 "carrier_accounts"=>[],
 "object_created"=>"2020-07-12T03:39:35.906Z",
 "object_updated"=>"2020-07-12T03:39:35.987Z",
@@ -65,3 +64,4 @@
       "test"=>true
     }]
 }
+]
